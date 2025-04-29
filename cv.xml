@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="36"/>
+                </w:rPr>
+                <w:t>Curriculum Vitae</w:t>
+            </w:r>
+        </w:p>
+        
+        <!-- Personal Information -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="28"/>
+                </w:rPr>
+                <w:t>Personal Information</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Name: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Mostafa Karam Ahmed</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Country: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Egypt – Qena Governorate – Abu Tesht Center</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Phone: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>01125797760</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Email: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>mostafa100karam@gmail.com</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>LinkedIn: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>linkedin.com/in/mostafa-karam-2a339a348</w:t>
+            </w:r>
+        </w:p>
+        
+        <!-- Profile -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="28"/>
+                </w:rPr>
+                <w:t>Profile</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>Motivated and ambitious IT student at the Egyptian-German Technological College in Asyut, with a strong foundation in computer networks and cybersecurity. Completed several professional Cisco courses and gained hands-on experience with tools such as Packet Tracer and Wireshark. Passionate about developing technical knowledge, working in team environments, and pursuing a professional career in cybersecurity and network analysis.</w:t>
+            </w:r>
+        </w:p>
+        
+        <!-- Education -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="28"/>
+                </w:rPr>
+                <w:t>Education</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>College: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Egyptian-German Technological College in Asyut</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>University: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Asyut International Technological University</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Major: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Information Technology (IT)</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Year of Start: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>2024 – Present</w:t>
+            </w:r>
+        </w:p>
+        
+        <!-- Certifications & Courses -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="28"/>
+                </w:rPr>
+                <w:t>Certifications &amp; Courses</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>1. Cybersecurity Essentials</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>2. Introduction to IoT and Digital Transformation</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>3. Networking Essentials</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>4. Introduction to Data Science</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>5. English for IT 1</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>6. English for IT 2</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>7. Ethical Hacker</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>8. Introduction to Cybersecurity</w:t>
+            </w:r>
+        </w:p>
+        
+        <!-- Technical Skills -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="28"/>
+                </w:rPr>
+                <w:t>Technical Skills</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>• Network management using Cisco Packet Tracer</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>• Understanding of OSI and TCP/IP models</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>• Proficient with network analysis tools such as Wireshark</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>• Basic concepts of cybersecurity and ethical hacking</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:t>• Strong communication and collaboration skills</w:t>
+            </w:r>
+        </w:p>
+        
+        <!-- Languages -->
+        <w:p>
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="28"/>
+                </w:rPr>
+                <w:t>Languages</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>Arabic: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Native</w:t>
+            </w:r>
+        </w:p>
+        
+        <w:p>
+            <w:r>
+                <w:rPr><w:b/></w:rPr>
+                <w:t>English: </w:t>
+            </w:r>
+            <w:r>
+                <w:t>Very Good</w:t>
+            </w:r>
+        </w:p>
+    </w:body>
+</w:document> 
